@@ -1,0 +1,19 @@
+*{
+margin: 0;
+padding: 0;
+list-style: none;
+scroll-behavior: smooth;
+
+}
+
+
+
+header{
+padding: 40px;
+background-color: black;
+display: flex;
+justify-content: space-between;
+gap: 30px;
+
+}
+
