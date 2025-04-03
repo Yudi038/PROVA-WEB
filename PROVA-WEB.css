@@ -10,10 +10,30 @@ scroll-behavior: smooth;
 
 header{
 padding: 40px;
-background-color: black;
+background-color: rgba(0, 0, 0, 0.24);
 display: flex;
 justify-content: space-between;
-gap: 30px;
+gap: 90px;
 
 }
 
+.div-lista ul{
+
+    display: flex;
+justify-content: center;
+gap: 10px;
+
+}
+.div-lista ul a{
+
+color: white;
+}
+
+.section-1{
+    padding: 270px;
+    background-image: url(imagens/bathroom-6686057_1280.jpg);
+background-size: cover;
+display: flex;
+flex-direction: column;
+gap: 25px;
+}
